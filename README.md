@@ -1,0 +1,2 @@
+# optimal-assignment-finder
+Optimal Assignment is a famous topic in Operational Research. This projects contains a C program implementing a command line app that finds the optimal assignment. Given a set of jobs and a set of candidates, we have to assign each candidate a job. Assigning a job to a candidate has a particular cost. The problem is to find the assignment that entails the optimal cost. 
